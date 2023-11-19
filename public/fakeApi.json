@@ -1,0 +1,133 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Klasik Margherita Pizza",
+      "description": "Domates soslu, mozzarella peynirli ve taze fesleğen yapraklarıyla hazırlanan lezzetli bir pizza.",
+      "ingredients": ["Pizza hamuru", "Domates sosu", "Mozzarella peyniri", "Taze fesleğen"],
+      "steps": ["Hamuru hazırlayın ve açın.", "Üzerine domates sosu sürün.", "Mozzarella peynirini ekleyin.", "Fırında pişirin.", "Taze fesleğen ile süsleyin."],
+      "image": "https://example.com/images/pizza.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Kremalı Mantar Çorbası",
+      "description": "Kremalı ve zengin bir mantar çorbası, soğuk günler için mükemmel bir seçim.",
+      "ingredients": ["Mantar", "Soğan", "Sarımsak", "Tereyağı", "Un", "Tavuk suyu", "Krema"],
+      "steps": ["Mantarları ve soğanı doğrayın.", "Tereyağında soğan ve sarımsağı soteleyin.", "Mantarları ekleyin ve pişirin.", "Unu ekleyin ve karıştırın.", "Tavuk suyu ekleyin ve kaynatın.", "Kremayı ekleyin ve karıştırarak pişirin."],
+      "image": "https://example.com/images/mushroom_soup.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tavuk Fajita",
+      "description": "Baharatlı tavuk şeritleri, biber ve soğan ile hazırlanan Meksika usulü bir yemek.",
+      "ingredients": ["Tavuk göğsü", "Kırmızı biber", "Yeşil biber", "Soğan", "Fajita baharatı"],
+      "steps": ["Tavukları şeritler halinde kesin.", "Biberleri ve soğanı doğrayın.", "Tavukları baharatlarla marine edin.", "Tavukları ve sebzeleri soteleyin.", "Tortilla ile servis yapın."],
+      "image": "https://example.com/images/chicken_fajita.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Ispanaklı ve Peynirli Omlet",
+      "description": "Sağlıklı ve lezzetli bir kahvaltı omleti.",
+      "ingredients": ["Ispanak", "Peynir", "Yumurta", "Tuz", "Karabiber"],
+      "steps": ["Ispanakları yıkayın ve doğrayın.", "Yumurtaları çırpın ve tuz ile karabiber ekleyin.", "Ispanakları ekleyin ve karıştırın.", "Peynir ekleyin ve omleti pişirin."],
+      "image": "https://example.com/images/spinach_omelette.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Meksika Tacos",
+      "description": "Meksika mutfağından lezzetli taco tarifi.",
+      "ingredients": ["Kıyma", "Taco kabukları", "Soğan", "Domates", "Baharatlar"],
+      "steps": ["Kıymayı kızartın.", "Taco kabuklarını ısıtın.", "Taco malzemelerini hazırlayın.", "Taco kabuklarına malzemeleri ekleyin ve servis yapın."],
+      "image": "https://example.com/images/tacos.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Çikolatalı Kek",
+      "description": "Lezzetli çikolatalı kek tarifi.",
+      "ingredients": ["Un", "Kakao", "Şeker", "Süt", "Yumurta"],
+      "steps": ["Malzemeleri karıştırın.", "Fırında pişirin.", "Soğuduktan sonra servis yapın."],
+      "image": "https://example.com/images/chocolate_cake.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Fırın Patates",
+      "description": "Lezzetli ve kızarmış fırın patates tarifi.",
+      "ingredients": ["Patates", "Zeytinyağı", "Tuz", "Baharatlar"],
+      "steps": ["Patatesleri soyun ve doğrayın.", "Zeytinyağı, tuz ve baharatlarla karıştırın.", "Fırında pişirin."],
+      "image": "https://example.com/images/roasted_potatoes.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Cevizli Salata",
+      "description": "Sağlıklı cevizli salata tarifi.",
+      "ingredients": ["Marul", "Domates", "Ceviz", "Zeytinyağı", "Limon suyu"],
+      "steps": ["Malzemeleri doğrayın ve karıştırın.", "Zeytinyağı ve limon suyu ekleyin."],
+      "image": "https://example.com/images/walnut_salad.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Peynirli Makarna",
+      "description": "Lezzetli ve kremsi peynirli makarna tarifi.",
+      "ingredients": ["Makarna", "Peynir sosu", "Tereyağı", "Süt"],
+      "steps": ["Makarnayı kaynatın.", "Peynir sosunu hazırlayın.", "Makarnayla karıştırın ve servis yapın."],
+      "image": "https://example.com/images/cheesy_pasta.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Köri Tavuk",
+      "description": "Baharatlı köri tavuk tarifi.",
+      "ingredients": ["Tavuk göğsü", "Köri baharatı", "Soğan", "Sarımsak", "Krema"],
+      "steps": ["Tavukları doğrayın.", "Soğan ve sarımsağı soteleyin.", "Köri baharatını ekleyin.", "Tavukları ekleyin ve pişirin.", "Kremayı ekleyin ve karıştırarak pişirin."],
+      "image": "https://example.com/images/curry_chicken.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Mevsim Salatası",
+      "description": "Taze sebzelerle hazırlanan mevsim salatası.",
+      "ingredients": ["Marul", "Domates", "Salatalık", "Biber", "Zeytinyağı", "Limon suyu"],
+      "steps": ["Malzemeleri doğrayın ve karıştırın.", "Zeytinyağı ve limon suyu ekleyin."],
+      "image": "https://example.com/images/seasonal_salad.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Karides Linguine",
+      "description": "Karidesli ve nefis bir linguine makarna tarifi.",
+      "ingredients": ["Karides", "Linguine makarna", "Sarımsak", "Tereyağı", "Beyaz şarap", "Limon suyu", "Maydanoz"],
+      "steps": ["Karidesleri soteleyin.", "Linguine makarnayı kaynatın.", "Sarımsak ve tereyağında soteleyin.", "Beyaz şarap ve limon suyunu ekleyin.", "Karides ve makarnayı karıştırın.", "Maydanoz ile süsleyin."],
+      "image": "https://example.com/images/shrimp_linguine.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Portakal Soslu Tavuk",
+      "description": "Portakal soslu tavuk yemeği.",
+      "ingredients": ["Tavuk göğsü", "Portakal suyu", "Bal", "Soğan", "Sarımsak", "Zeytinyağı"],
+      "steps": ["Tavuk göğsünü pişirin.", "Portakal sosunu hazırlayın.", "Soğan ve sarımsağı soteleyin.", "Tavuk, sos ve balı karıştırın.", "Zeytinyağı ekleyin."],
+      "image": "https://example.com/images/orange_chicken.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Mango Smoothie",
+      "description": "Mango ve yoğurtlu sağlıklı smoothie tarifi.",
+      "ingredients": ["Mango", "Yoğurt", "Süt", "Bal"],
+      "steps": ["Mangoyı doğrayın.", "Mango, yoğurt, süt ve balı blenderda karıştırın.", "Buz ile servis yapın."],
+      "image": "https://example.com/images/mango_smoothie.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Güveçte Kuzu Kebabı",
+      "description": "Güveçte kuzu kebabı tarifi.",
+      "ingredients": ["Kuzu eti", "Patates", "Soğan", "Domates", "Biber", "Baharatlar"],
+      "steps": ["Kuzu etini doğrayın ve baharatlayın.", "Patates, soğan, domates ve biberi doğrayın.", "Güveçte malzemeleri katmanlayın.", "Fırında pişirin."],
+      "image": "https://example.com/images/lamb_stew.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Klasik Margherita Pizza",
+      "description": "Domates soslu, mozzarella peynirli ve taze fesleğen yapraklarıyla hazırlanan lezzetli bir pizza.",
+      "ingredients": ["Pizza hamuru", "Domates sosu", "Mozzarella peyniri", "Taze fesleğen"],
+      "steps": ["Hamuru hazırlayın ve açın.", "Üzerine domates sosu sürün.", "Mozzarella peynirini ekleyin.", "Fırında pişirin.", "Taze fesleğen ile süsleyin."],
+      "image": "https://example.com/images/pizza.jpg"
+    }
+
+  ]
+}
